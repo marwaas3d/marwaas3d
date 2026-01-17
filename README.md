@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-I'm **Mira**, a **Frontend Developer** passionate about building modern, responsive, and user-friendly web interfaces.  
+I'm **Mera**, a **Frontend Developer** passionate about building modern, responsive, and user-friendly web interfaces.  
 I specialize in **Angular** and enjoy turning designs into clean, interactive experiences.
 
 I'm currently **learning backend development** to become a more well-rounded developer, and I'm also **pursuing my Master's degree** in Computer Science.
