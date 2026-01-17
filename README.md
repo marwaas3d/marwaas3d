@@ -15,9 +15,6 @@ I'm currently **learning backend development** to become a more well-rounded dev
 
 <img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" />
 
-
-
-<img src="" />
 ---
 
 ## 🚀 Technical Skills
