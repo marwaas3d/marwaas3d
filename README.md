@@ -4,6 +4,7 @@
 🎓 Computer Science Graduate | Master's Student  
 📍 Cairo, Egypt
 
+<img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" />
 
 
 ---
@@ -16,7 +17,6 @@ I specialize in **Angular** and enjoy turning designs into clean, interactive ex
 I'm currently **learning backend development** to become a more well-rounded developer, and I'm also **pursuing my Master's degree** in Computer Science.
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif"/>
 
 <img src="" />
 ---
