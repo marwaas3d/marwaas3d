@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=marwaas3d)
+![](https://komarev.com/ghpvc/?username=marwaas3d&style=flat-square)
 
 # 👋 Hi, I'm Marwa Asaad
 
