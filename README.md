@@ -4,10 +4,6 @@
 🎓 Computer Science Graduate | Master's Student  
 📍 Cairo, Egypt
 
-<img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" />
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif">
-
-
 ---
 
 ## 👩‍💻 About Me
@@ -16,6 +12,8 @@ I'm **Mira**, a **Frontend Developer** passionate about building modern, respons
 I specialize in **Angular** and enjoy turning designs into clean, interactive experiences.
 
 I'm currently **learning backend development** to become a more well-rounded developer, and I'm also **pursuing my Master's degree** in Computer Science.
+
+<img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" />
 
 
 
@@ -54,6 +52,8 @@ I'm currently **learning backend development** to become a more well-rounded dev
 
 - **Master's Degree (In Progress)**  
   Computer Science  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif">
 
 
 ---
